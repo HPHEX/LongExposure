@@ -1,0 +1,110 @@
+[
+    {
+        "task": "a100-1.3b-512-4-full parameter",
+        "time": 259.7529602050781
+    },
+    {
+        "task": "a100-1.3b-512-4-lora",
+        "time": 186.02590240478514
+    },
+    {
+        "task": "a100-1.3b-512-4-adapter",
+        "time": 156.47002563476562
+    },
+    {
+        "task": "a100-1.3b-512-4-bitfit",
+        "time": 155.9434652709961
+    },
+    {
+        "task": "a100-1.3b-512-4-long exposure + lora",
+        "time": 143.47778106689452
+    },
+    {
+        "task": "a100-1.3b-512-4-long exposure + adapter",
+        "time": 127.50528518676758
+    },
+    {
+        "task": "a100-1.3b-512-4-long exposure + bitfit",
+        "time": 108.74322937011719
+    },
+    {
+        "task": "a100-1.3b-1024-4-full parameter",
+        "time": 552.2333679199219
+    },
+    {
+        "task": "a100-1.3b-1024-4-lora",
+        "time": 473.38471557617186
+    },
+    {
+        "task": "a100-1.3b-1024-4-adapter",
+        "time": 424.9853533935547
+    },
+    {
+        "task": "a100-1.3b-1024-4-bitfit",
+        "time": 428.987412109375
+    },
+    {
+        "task": "a100-1.3b-1024-4-long exposure + lora",
+        "time": 188.20134979248047
+    },
+    {
+        "task": "a100-1.3b-1024-4-long exposure + adapter",
+        "time": 149.6418505859375
+    },
+    {
+        "task": "a100-1.3b-1024-4-long exposure + bitfit",
+        "time": 138.6929766845703
+    },
+    {
+        "task": "a100-2.7b-512-4-full parameter",
+        "time": 458.8882550048828
+    },
+    {
+        "task": "a100-2.7b-512-4-lora",
+        "time": 302.8152728271484
+    },
+    {
+        "task": "a100-2.7b-512-4-adapter",
+        "time": 253.19745635986328
+    },
+    {
+        "task": "a100-2.7b-512-4-bitfit",
+        "time": 249.96556732177734
+    },
+    {
+        "task": "a100-2.7b-512-4-long exposure + lora",
+        "time": 211.11261108398438
+    },
+    {
+        "task": "a100-2.7b-512-4-long exposure + adapter",
+        "time": 166.26432037353516
+    },
+    {
+        "task": "a100-2.7b-512-4-long exposure + bitfit",
+        "time": 141.58667694091798
+    },
+    {
+        "task": "a100-2.7b-1024-4-lora",
+        "time": 725.8820178222657
+    },
+    {
+        "task": "a100-2.7b-1024-4-adapter",
+        "time": 646.1721374511719
+    },
+    {
+        "task": "a100-2.7b-1024-4-bitfit",
+        "time": 648.9397290039062
+    },
+    {
+        "task": "a100-2.7b-1024-4-long exposure + lora",
+        "time": 308.23542846679686
+    },
+    {
+        "task": "a100-2.7b-1024-4-long exposure + adapter",
+        "time": 241.9347653198242
+    },
+    {
+        "task": "a100-2.7b-1024-4-long exposure + bitfit",
+        "time": 224.93966278076172
+    }
+]
